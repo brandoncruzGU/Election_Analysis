@@ -36,6 +36,7 @@ By using a for loop to calculate the number of votes per county, we find that th
 6.7% (24,801) of the total votes were cast by residents in Arapahoe county.
 
 By slightly adjusting the variables in the for loop, we were able to identify which candidate won the race. The candidates in this election are Charles Casper Stockham, Diana DeGette, and Raymon Anthony Doane. After identifying the candidates in this election, we created the for loop below to calculate the amount of votes each candidate recieved.
+
 ![Screenshot 2022-07-19 220103](https://user-images.githubusercontent.com/107777321/179900970-8d3df909-b93c-493e-bb28-0d3bd7b6ef31.png)
 
 Raymon Anthony Doane recieved 11, 606 votes which is "3.1%" of the total votes. 
